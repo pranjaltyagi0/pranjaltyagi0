@@ -6,7 +6,6 @@ I am curious about upcoming tech and have a knack for learning. Currently, I wor
 
 - 🔭 I'm currently working on exciting web projects.
 - 🌱 I'm always learning and expanding my skillset.
-- 💬 Feel free to ask me anything related to tech or programming.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pranjal-tyagi/).
 
 ## Skills
@@ -31,7 +30,12 @@ Check out the project: [TravelLog](https://github.com/pranjaltyagi0/Travellog)
 
 ### Reading Enthusiast
 
-Being a big fan of Sci-Fi books, some of my favorites include "The Hitchhiker's Guide to the Galaxy" and "Mission Improbable."
+### Reading Enthusiast
+
+Being a big fan of Sci-Fi books, some of my favorites include:
+
+- **"The Hitchhiker's Guide to the Galaxy"** (One of the best out there)
+- **"Mission Improbable"**
 
 ## Let's Connect!
 
