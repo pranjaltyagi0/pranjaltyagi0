@@ -1,6 +1,6 @@
 # Hello there, I'm Pranjal Tyagi! 👋
 
-I'm a tech enthusiast with a passion for learning and exploring new technologies. Currently, I work as a FullStack developer with proficiency in C++ and Java, among other skills. My insatiable curiosity drives me to stay updated with the latest developments in the tech world.
+I am curious about upcoming tech and have a knack for learning. Currently, I work as a FullStack developer with proficiency in C++ and Java, among other skills.
 
 ## About Me
 
@@ -14,6 +14,8 @@ I'm a tech enthusiast with a passion for learning and exploring new technologies
 - FullStack Development
 - C++
 - Java
+- Linux
+- Docker
 
 ## Projects
 
