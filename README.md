@@ -30,8 +30,6 @@ Check out the project: [TravelLog](https://github.com/pranjaltyagi0/Travellog)
 
 ### Reading Enthusiast
 
-### Reading Enthusiast
-
 Being a big fan of Sci-Fi books, some of my favorites include:
 
 - **"The Hitchhiker's Guide to the Galaxy"** (One of the best out there)
